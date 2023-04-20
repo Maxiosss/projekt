@@ -1,0 +1,290 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body{
+    font-family: 'Playfair Display';
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
+.nav-list-link{
+width: 86px;
+height: 16px;
+left: 633px;
+top: 1170px;
+
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+}
+.picture-1 {
+    width: 420px;
+height: 280px;
+left: 148px;
+top: 182px;
+}
+.picture-2 {
+    width: 420px;
+height: 280px;
+left: 633px;
+top: 182px;
+}
+.picture-3 {
+    width: 420px;
+height: 280px;
+left: 147px;
+top: 858px;
+}
+.picture-4 {
+    width: 420px;
+height: 280px;
+left: 633px;
+top: 858px;
+}
+.picture-5 {
+    width: 420px;
+height: 280px;
+left: 149px;
+top: 1500px;
+}
+.picture-6 {
+    width: 419px;
+height: 280px;
+left: 633px;
+top: 1504px;
+}
+.lifestyle-1 {
+    width: 64px;
+height: 16px;
+left: 148px;
+top: 524px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+}
+.festival {
+    width: 408px;
+height: 40px;
+left: 148px;
+top: 572px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+}
+.lifestyle-2 {
+    width: 64px;
+    height: 16px;
+    left: 633px;
+    top: 524px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+    
+}
+.lifestyle-3 {
+    width: 64px;
+    height: 16px;
+    left: 149px;
+    top: 1812px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+}
+.lifestyle-4 {
+    width: 64px;
+height: 16px;
+left: 632px;
+top: 1816px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+}
+.lorem-1 {
+    width: 420px;
+height: 76px;
+left: 148px;
+top: 1298px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+
+}
+.lorem-2{
+width: 420px;
+height: 76px;
+left: 633px;
+top: 1298px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+}
+.lorem-3 {
+    width: 420px;
+height: 76px;
+left: 149px;
+top: 1940px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+}
+.lorem-5 {
+    width: 420px;
+height: 76px;
+left: 149px;
+top: 1940px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+}
+.lorem-4 {
+    width: 420px;
+height: 76px;
+left: 633px;
+top: 1298px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+}
+.lorem-6{
+    width: 420px;
+height: 76px;
+left: 632px;
+top: 1944px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+
+}
+.coffe {
+    width: 379px;
+height: 40px;
+left: 633px;
+top: 572px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+
+}
+.dream {
+width: 225px;
+height: 40px;
+left: 148px;
+top: 1218px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+
+}
+.Alps {
+
+    width: 324px;
+height: 40px;
+left: 633px;
+top: 1218px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+}
+.song {
+    width: 321px;
+height: 40px;
+left: 149px;
+top: 1860px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+
+}
+.winter{
+    width: 226px;
+height: 40px;
+left: 632px;
+top: 1864px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+}
+ .bt {
+    width: 165px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #626262;
+}
