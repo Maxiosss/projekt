@@ -288,3 +288,29 @@ top: 0px;
 
 border: 1px solid #626262;
 }
+.photodairy-2 {
+    width: 86px;
+height: 16px;
+left: 633px;
+top: 1170px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+}
+.photodairy-1 {
+    width: 86px;
+height: 16px;
+left: 148px;
+top: 1170px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+}
