@@ -1,171 +1,228 @@
+body {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.35;
+}
+.nav-list-link:hover,
+.nav-list-link:focus {
+  color: #03a9f4;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+.container {
+  max-width: 1200px;
+  background: #ffffff;
+  margin: 0 auto;
+}
+.header {
+  display: flex;
+  justify-content: center;
+}
+.nav-menu {
+  padding: 71px 0 92px;
+}
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  width: 555px;
+}
+.nav-list-link {
+  font-style: normal;
+  font-weight: 300;
+  line-height: 16px;
+  color: #7d7d7d;
+}
+/* main */
+.content {
+  padding-bottom: 66px;
+}
+.main-list {
+  display: flex;
+  width: 906px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.main-list-item:not(:nth-child(n + 5)) {
+  margin-bottom: 130px;
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
-
-body{
-    font-family: 'Playfair Display';
-    font-weight: 400;
-}
-a{
-    text-decoration: none;
-}
-ul{
-    list-style: none;
-}
-
-.nav-list-link{
-font-style: normal;
-font-weight: 300;
-font-size: 14px;
-line-height: 16px;
-color: #B4AD9E;
-}
 .picture-1 {
-    width: 420px;
-height: 280px;
+  width: 420px;
+  height: 280px;
 }
 .picture-2 {
-    width: 420px;
-height: 280px;
+  width: 420px;
+  height: 280px;
 }
 .picture-3 {
-    width: 420px;
-height: 280px;
+  width: 420px;
+  height: 280px;
 }
 .picture-4 {
-    width: 420px;
-height: 280px;
+  width: 420px;
+  height: 280px;
 }
 .picture-5 {
-    width: 420px;
-height: 280px;
+  width: 420px;
+  height: 280px;
 }
 .picture-6 {
-    width: 419px;
-height: 280px;
+  width: 419px;
+  height: 280px;
 }
 .lifestyle-1 {
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 300;
-font-size: 14px;
-line-height: 16px;
-color: #B4AD9E;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  line-height: 16px;
+  color: #b4ad9e;
+  margin-bottom: 32px;
+  margin-top: 62px;
 }
 .festival {
-font-style: normal;
-font-size: 30px;
-line-height: 40px;
-color: #626262;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 40px;
+  color: #626262;
+  margin-bottom: 40px;
 }
 .lifestyle-2 {
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
-    color: #B4AD9E;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  line-height: 16px;
+  color: #b4ad9e;
+  margin-bottom: 32px;
+  margin-top: 62px;
 }
 .lifestyle-3 {
- font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
-    color: #B4AD9E;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  line-height: 16px;
+  color: #b4ad9e;
+  margin-bottom: 32px;
+  margin-top: 62px;
 }
 .lifestyle-4 {
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 300;
-font-size: 14px;
-line-height: 16px;
-color: #B4AD9E;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  line-height: 16px;
+  color: #b4ad9e;
+  margin-bottom: 32px;
+  margin-top: 62px;
 }
 .lorem-1 {
-font-style: normal;
-font-size: 14px;
-line-height: 19px;
-color: #626262;
+  font-style: normal;
+  line-height: 19px;
+  color: #626262;
+  width: 420px;
 }
-.lorem-2{
-font-style: normal;
-font-size: 14px;
-line-height: 19px;
-color: #626262;
+.lorem-2 {
+  font-style: normal;
+  line-height: 19px;
+  color: #626262;
+  width: 420px;
 }
 .lorem-3 {
-font-style: normal;
-font-size: 14px;
-line-height: 19px;
-color: #626262;
+  font-style: normal;
+  line-height: 19px;
+  color: #626262;
+  width: 420px;
 }
 .lorem-5 {
-font-style: normal;
-font-size: 14px;
-line-height: 19px;
-color: #626262;
+  font-style: normal;
+  line-height: 19px;
+  color: #626262;
+  width: 420px;
 }
 .lorem-4 {
-font-style: normal;
-font-size: 14px;
-line-height: 19px;
-color: #626262;
+  font-style: normal;
+  line-height: 19px;
+  color: #626262;
+  width: 420px;
 }
-.lorem-6{
-font-style: normal;
-font-size: 14px;
-line-height: 19px;
-color: #626262;
+.lorem-6 {
+  font-style: normal;
+  line-height: 19px;
+  color: #626262;
+  width: 420px;
 }
 .coffe {
-font-style: normal;
-font-size: 30px;
-line-height: 40px;
-color: #626262;
-
+  font-style: normal;
+  font-size: 30px;
+  line-height: 40px;
+  color: #626262;
+  margin-bottom: 40px;
 }
 .dream {
-font-style: normal;
-font-size: 30px;
-line-height: 40px;
-color: #626262;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 40px;
+  color: #626262;
+  margin-bottom: 40px;
 }
 .Alps {
-font-style: normal;
-font-size: 30px;
-line-height: 40px;
-color: #626262;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 40px;
+  color: #626262;
+  margin-bottom: 40px;
 }
 .song {
-font-style: normal;
-font-size: 30px;
-line-height: 40px;
-color: #626262;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 40px;
+  color: #626262;
+  margin-bottom: 40px;
 }
-.winter{
-font-style: normal;
-font-size: 30px;
-line-height: 40px;
-color: #626262;
+.winter {
+  font-style: normal;
+  font-size: 30px;
+  line-height: 40px;
+  color: #626262;
+  margin-bottom: 40px;
 }
- .bt {
-    width: 165px;
-height: 60px;
-border: 1px solid #626262;
+.bt {
+  display: flex;
+  font-family: "Playfair Display", serif;
+  width: 165px;
+  height: 60px;
+  line-height: 1.35;
+  font-weight: 400;
+  border: 1px solid #626262;
+  margin: 90px auto 0;
+  justify-content: center;
+  align-items: center;
 }
 .photodairy-2 {
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 300;
-font-size: 14px;
-line-height: 16px;
-color: #B4AD9E;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  line-height: 16px;
+  color: #b4ad9e;
+  margin-bottom: 32px;
+  margin-top: 62px;
 }
 .photodairy-1 {
-font-family: 'Ubuntu';
-font-style: normal;
-font-weight: 300;
-font-size: 14px;
-line-height: 16px;
-color: #B4AD9E;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  line-height: 16px;
+  color: #b4ad9e;
+  margin-bottom: 32px;
+  margin-top: 62px;
+}
+h2,
+p,
+ul {
+  padding: 0;
+  margin: 0;
 }
